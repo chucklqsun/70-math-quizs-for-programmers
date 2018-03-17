@@ -5,6 +5,8 @@ python版本的解法，使用jupyter notebook，仅用于学术讨论。
 
 ### 如何在本地使用
 ```
+pip3 install --upgrade pip
+pip3 install jupyter
 jupyter notebook
 ```
 
@@ -15,7 +17,7 @@ jupyter notebook
 4. [切分木棒][ref4]
 5. [还在用现金支付吗][ref5]
 6. [（改版）考拉兹猜想][ref6]
-7. [日期的二进制转换]
+7. [日期的二进制转换][ref7]
 8. [优秀的扫地机器人]
 9. [落单的男女]
 10. [轮盘的最大值]
@@ -30,3 +32,4 @@ jupyter notebook
 [ref4]: ./切分木棒.ipynb "切分木棒"
 [ref5]: ./还在用现金支付吗.ipynb "还在用现金支付吗"
 [ref6]: ./（改版）考拉兹猜想.ipynb "（改版）考拉兹猜想"
+[ref7]: ./日期的二进制转换.ipynb "日期的二进制转换"
